@@ -3,7 +3,7 @@
  * Plugin Name: SSV Forms
  * Plugin URI: http://moridrin.com/ssv-forms
  * Description: This is a plugin to create forms with ease.
- * Version: 0.1.2
+ * Version: 0.1.3
  * Author: Jeroen Berkvens
  * Author URI: http://nl.linkedin.com/in/jberkvens/
  * License: WTFPL
