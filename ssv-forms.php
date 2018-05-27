@@ -15,3 +15,4 @@ if (!defined('ABSPATH')) {
 }
 
 require_once 'general/general.php';
+require_once 'general/forms/forms.php';
